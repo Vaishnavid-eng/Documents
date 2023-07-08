@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <h1 align="centre">Tata Consultancy Service</h1>
+</head>
+
+<body bgcolor="skyblue">
+    <p>
+        <font size=5 color="red">
+            <b>Tata Consultancy Services Limited, initially started as Tata Computer Systems, was founded in 1968 by a division of Tata Sons Limited.[21] Its early contracts included punched card services to sister company TISCO (now Tata Steel), working on an Inter-Branch Reconciliation System for the Central Bank of India,[22] and providing bureau services to Unit Trust of India.
+</font>
+</p>
+<IMG SRC="c:TCS.jpg"width"200" height="400">
+
+<p>
+<font size=+2 color="green">
+<i>TCS established India's first software research centre, the Tata Research Development and Design Centre, in Pune, in 1981. TRDDC undertakes research in software engineering, process engineering, bioinformatics, and systems research. Researchers at TRDDC also developed MasterCraft (now a suite of digitization and optimization tools),[114] a Model-driven Development software that can automatically create codes based on a model of a software, and rewrite the codes based on the users needs.</i>
+</font>
+</p>
+
+Further you can contact at following address:
+<pre>Adress:First Floor, Godrej Millenium Condominium, 9 Koregaon Road, Pune, Maharashtra 411001
+Hours: Thursday:8 am–10 pm
+       Friday:8 am–10 pm
+       Saturday:8 am–10 pm
+       Sunday:8 am–10 pm
+       Monday:8 am–10 pm
+       Tuesday:8 am–10 pm
+       Wednesday:8 am–10 pm
+Closed:Opens 8 am Fri
+Phone:020 6608 7888
+email:global.marketing@tcs.com
+</pre>
+<A HREF="C:\tcs\clients.html">
+<align="right"><h2>CLIENTS</h2></align> </A>
+
+</body>
+</html>
+
+Link page: https://www.tcs.com/html
+<html>
+<head>
+<h1 align="centre">TATA CONSULTANCY SERVICE</h1>
+</head>
+<body bgcolor="skyblue">
+<h1>Clients</h1>
+<ol>
+<li>LocationsTCS has operations in the following locations:</li>
+<li>India:</li>
+<li>Ahmedabad, Bengaluru, Baroda, Bhubaneswar, Chennai, Delhi, Gandhinagar, Goa, Gurugram, Guwahati, Hyderabad, Bhopal, Indore, Jamshedpur, Kalyan, Thane, Kochi, Kolkata, Lucknow, New Delhi, Mumbai, Nagpur, Noida, Nashik, Patna,[95][96] Pune, Thiruvananthapuram, and Varanasi.</li>
+</ol>
+</body>
+</html>
